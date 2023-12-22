@@ -7,12 +7,18 @@ math = true
 
 
 
-This is not rendered 
+This is  rendered 
 <div style="text-align: center;">
     <img src="../../images/kookaburra.jpg" alt="Cool kookaburra" width="800"/>
     <p><em>Figure 1: Cool kookaburra</em></p>
 </div>
 
-But this is rendered 
+And this is rendered 
 
 ![Alt text](../../images/kookaburra.jpg) 
+
+A bit of math :
+
+$$ x^2 + y^2 = z^2 $$
+
+This looks good in localhost
