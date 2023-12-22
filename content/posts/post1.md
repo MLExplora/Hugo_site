@@ -9,8 +9,8 @@ math = true
 
 This is not rendered 
 <div style="text-align: center;">
-  <img src="../../images/kookaburra.jpg" alt="Cool kookaburra" width="800"/>
-  <p><em>Figure 1: Cool kookaburra</em></p>
+    <img src="../../images/kookaburra.jpg" alt="Cool kookaburra" width="800"/>
+    <p><em>Figure 1: Cool kookaburra</em></p>
 </div>
 
 But this is rendered 
